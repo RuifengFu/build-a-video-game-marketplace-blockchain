@@ -1,0 +1,16 @@
+[
+  {
+    "buyerAddress": "0422fbe9e2332936985fe97b1c36a340e2a6a14ffc40d9f42cc18f84f75b6d06f2766204a0e7f63c8db6b09427341d6b2b",
+    "sellerAddress": null,
+    "itemBought": "skin",
+    "price": 30,
+    "signature": "3034021830e1b205c4859092e9531c1f93d9defd9935422f80e4014602184a6da6d88d84a9e27de222419d1709dd99ac1b133556dc97"
+  },
+  {
+    "buyerAddress": "0422fbe9e2332936985fe97b1c36a340e2a6a14ffc40d9f42cc18f84f75b6d06f2766204a0e7f63c8db6b09427341d6b2b",
+    "sellerAddress": null,
+    "itemBought": "icon",
+    "price": 10,
+    "signature": "3034021830e1b205c4859092e9531c1f93d9defd9935422f80e4014602184a6da6d88d84a9e27de222419d1709dd99ac1b133556dc97"
+  }
+]

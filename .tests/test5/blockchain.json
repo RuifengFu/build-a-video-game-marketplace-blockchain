@@ -1,0 +1,18 @@
+[
+  {
+    "hash": "0",
+    "previousHash": null
+  },
+  {
+    "hash": "00c95565db2f74910820ff61fa9e679e0d597fd4e2473ef50d07d3e39007aa13",
+    "previousHash": "0",
+    "nonce": 124,
+    "transactions": [
+      {
+        "buyerAddress": null,
+        "sellerAddress": "04a59d67e46966cf47b6af7d1f4a7eb593aa06767e49528ed209d2c7775795d3334c950ae632da6b5cef2b2078dc813a3f",
+        "price": 40
+      }
+    ]
+  }
+]
